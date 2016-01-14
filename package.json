@@ -1,0 +1,14 @@
+{
+  "name": "engine－build",
+  "version": "0.0.1",
+  "author": {
+    "name": "rich",
+    "email": " "
+  },
+  "dependencies": {
+    "gulp": "3.9.0",
+    "gulp-typescript": "2.10.0",
+    "gulp-sourcemaps": "1.6.0",
+  }
+
+}
