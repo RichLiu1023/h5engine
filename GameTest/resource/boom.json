@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "BM01",
+	"frame": {"x":804,"y":170,"w":58,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":78},
+	"sourceSize": {"w":58,"h":78}
+},
+{
+	"filename": "BM02",
+	"frame": {"x":922,"y":116,"w":62,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":80},
+	"sourceSize": {"w":62,"h":80}
+},
+{
+	"filename": "BM03",
+	"frame": {"x":864,"y":170,"w":54,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":74},
+	"sourceSize": {"w":54,"h":74}
+},
+{
+	"filename": "BM11",
+	"frame": {"x":732,"y":170,"w":70,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":64},
+	"sourceSize": {"w":70,"h":64}
+},
+{
+	"filename": "BM12",
+	"frame": {"x":922,"y":2,"w":110,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":112},
+	"sourceSize": {"w":110,"h":112}
+},
+{
+	"filename": "BM13",
+	"frame": {"x":732,"y":2,"w":188,"h":166},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":166},
+	"sourceSize": {"w":188,"h":166}
+},
+{
+	"filename": "BM14",
+	"frame": {"x":506,"y":2,"w":224,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":224,"h":192},
+	"sourceSize": {"w":224,"h":192}
+},
+{
+	"filename": "BM15",
+	"frame": {"x":276,"y":2,"w":228,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":228,"h":226},
+	"sourceSize": {"w":228,"h":226}
+},
+{
+	"filename": "BM16",
+	"frame": {"x":2,"y":2,"w":272,"h":242},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":272,"h":242},
+	"sourceSize": {"w":272,"h":242}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "boom.png",
+	"format": "RGBA8888",
+	"size": {"w":1034,"h":250},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:892d785a20d3295eb33ebaeaa6ad0b03$"
+}
+}

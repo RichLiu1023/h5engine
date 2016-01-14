@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "be02.png",
+	"frame": {"x":2,"y":2,"w":62,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":62,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "be03.png",
+	"frame": {"x":66,"y":2,"w":62,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":62,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "be04.png",
+	"frame": {"x":130,"y":2,"w":62,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":62,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "be05.png",
+	"frame": {"x":194,"y":2,"w":62,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":62,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "be06.png",
+	"frame": {"x":258,"y":2,"w":62,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":62,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "be07.png",
+	"frame": {"x":322,"y":2,"w":62,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":62,"h":64},
+	"sourceSize": {"w":64,"h":64}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "btnssheet-copy.png",
+	"format": "RGBA8888",
+	"size": {"w":386,"h":68},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:71ad608c7f21ce2f539522bba2d6a28d$"
+}
+}

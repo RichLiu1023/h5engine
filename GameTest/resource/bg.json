@@ -1,0 +1,65 @@
+{
+  "file": "riskbg1sheet.png",
+  "frames": {
+    "pingyuanjinjing": {
+      "h": 152,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 152,
+      "sourceW": 480,
+      "w": 480,
+      "x": 2,
+      "y": 359
+    },
+    "pingyuanyuanjing": {
+      "h": 130,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 130,
+      "sourceW": 480,
+      "w": 480,
+      "x": 2,
+      "y": 798
+    },
+    "pingyuanzhongjing": {
+      "h": 137,
+      "offX": 0,
+      "offY": 33,
+      "sourceH": 202,
+      "sourceW": 480,
+      "w": 480,
+      "x": 2,
+      "y": 657
+    },
+    "senlinjinjing": {
+      "h": 196,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 196,
+      "sourceW": 480,
+      "w": 480,
+      "x": 2,
+      "y": 2
+    },
+    "senlinyuanjing": {
+      "h": 138,
+      "offX": 0,
+      "offY": 0,
+      "sourceH": 138,
+      "sourceW": 480,
+      "w": 480,
+      "x": 2,
+      "y": 515
+    },
+    "senlinzhongjing": {
+      "h": 153,
+      "offX": 0,
+      "offY": 1,
+      "sourceH": 202,
+      "sourceW": 480,
+      "w": 480,
+      "x": 2,
+      "y": 202
+    }
+  }
+}
