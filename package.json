@@ -1,14 +1,21 @@
 {
   "name": "enginebuild",
   "version": "0.0.1",
-  "author": {
-    "name": "rich",
-    "email": " "
+  "author": { 
+    "name" : "richliu1023",
+    "email" : "richliu1023@gmail.com",
+    "blog" : "http://www.cnblogs.com/Richard-Core/",
+    "github" "https://github.com/richliu1023"
   },
+  "license": "MIT",
   "dependencies": {
     "gulp": "3.9.0",
     "gulp-typescript": "2.10.0",
     "gulp-sourcemaps": "1.6.0"
+  },
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/richliu1023"
   }
 
 }
